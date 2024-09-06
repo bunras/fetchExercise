@@ -1,3 +1,5 @@
+Cole Rasmussen - coleras0018@gmail.com
+
 This simple app reads the data from the link provided https://fetch-hiring.s3.amazonaws.com/hiring.json
 
 The app uses Retrofit to call the API, then the list items are sorted by their ListID, and displayed accordingly,
